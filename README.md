@@ -1,4 +1,3 @@
-arkdown
 # Heading 1: Main Title
 
 This is a paragraph with **bold text**, *italic text*, and ***bold italic text***. You can also have `inline code` and ~~strikethrough~~ text.
