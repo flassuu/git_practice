@@ -1,1 +1,4 @@
-void main() { print("Hello Git!"); }
+void main() {
+  print("Hello Git!");
+  print("Git is easy");
+}
